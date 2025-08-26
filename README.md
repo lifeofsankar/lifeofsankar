@@ -5,13 +5,13 @@
 </p>
 
 <p align="left">
-  <a href="https://lifeofjsankar.me/" target="_blank">
+  <a href="https://lifeofsankar.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-255E63?style=for-the-badge&logo=googlesites&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-url-here" target="_blank">
+  <a href="https://www.linkedin.com/in/lifeofsankar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-   <a href="https://twitter.com/lifeofjsankar" target="_blank">
+   <a href="https://twitter.com/lifeofsankar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 </p>
@@ -65,6 +65,6 @@ Here are a few projects I'm proud of. Be sure to check them out!
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeofjsankar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofjsankar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
