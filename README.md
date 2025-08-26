@@ -66,5 +66,5 @@ Here are a few projects I'm proud of. Be sure to check them out!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofjsankar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
