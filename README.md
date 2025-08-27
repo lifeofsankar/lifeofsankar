@@ -1,3 +1,5 @@
+<!-- Profile README for @lifeofsankar — polished & engaging -->
+
 <div align="center">
 
 <a href="https://lifeofsankar.me/" target="_blank">
@@ -5,99 +7,115 @@
 </a>
 
 <br/>
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=255E63&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jai+Sankar+J+%F0%9F%91%8B;A+Software+Developer;A+Full-Stack+Developer;A+Robotics+EnthusiastA+Swift+Developer;;A+Creative+Cinematographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3600&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Jai+Sankar+J+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Engineer+⚙️;Robotics+(ROS2)+Enthusiast+🤖;Swift+Developer+🐦;Creative+Cinematographer+🎬)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  I'm a Computer Science student from India with a passion for building robust software and exploring the intersection of code and creativity. My focus is on full-stack development and software quality, but I also enjoy diving into robotics with ROS and telling stories through cinematography.
-</p>
+---
+
+## 👋 About Me
+
+I'm a Computer Science student from India who loves building robust software and mixing code with creativity.  
+My focus areas are **full-stack development**, **software quality**, and **robotics (ROS2)** — with occasional adventures in **Swift** and **cinematography**.
+
+- 🔭 **Currently building:** ROS2 mini-projects (Jazzy), clean PHP/MySQL backends, and small Swift utilities.  
+- 📚 **Learning:** Ethereum & Solidity, deeper ROS2 concepts (services, TF, Nav2).  
+- 🎯 **Interests:** CI/CD, testing, computer vision, and storytelling with video.  
+- 💬 **Ask me about:** PHP/MySQL stacks, Python scripting, ROS2 basics, Git workflows.  
+- 🌐 **Portfolio:** [lifeofsankar.me](https://lifeofsankar.me/)
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://lifeofsankar.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-255E63?style=for-the-badge&logo=googlesites&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/lifeofsankar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-   <a href="https://twitter.com/lifeofsankar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  <a href="https://twitter.com/lifeofsankar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/>
   </a>
-</p>
-
----
-
-### 🛠️ My Tech Stack & Tools
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ros.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="mailto:hello@lifeofsankar.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hello%40lifeofsankar.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
 ---
 
-### 🚀 My Featured Projects
+## 🛠️ Tech Stack
 
-Here are a few projects I'm proud of. Be sure to check them out!
-
-#### TrackMyLeave
-- **Description:** A full-stack DBMS application for leave management with role-based access for admins, students, and faculty.
-- **Tech:** <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-
-#### ROS 2 for Beginners
-- **Description:** A collection of tutorials and code samples to help newcomers get started with the fundamental concepts of ROS 2 Jazzy.
-- **Tech:** <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ros"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="45" alt="ROS2"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" alt="Swift"/>
+</p>
 
 ---
 
-### 📊 My GitHub Stats & Activity
+## 🚀 Featured Projects
 
-### 📊 My GitHub Stats & Activity
+> A few things I’m proud of. Check the repos for details and demos.
+
+### **TrackMyLeave**
+- **Description:** Full-stack DBMS application for leave management with role-based access (admin, students, faculty).  
+- **Tech:** PHP · MySQL · HTML5 · CSS3  
+- **Repo:** *[link here]*  
+
+### **ROS 2 for Beginners**
+- **Description:** Tutorials and code snippets to get started with **ROS 2 Jazzy** fundamentals.  
+- **Tech:** ROS2 · Python  
+- **Repo:** *[link here]*  
+
+### **Swift Mini-Tools**
+- **Description:** Handy Swift utilities for daily tasks on macOS/iOS.  
+- **Tech:** Swift  
+- **Repo:** *[link here]*  
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
+<!-- Contribution snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>lifeofsankar/lifeofsankar/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🧪 Currently Exploring
+- Building **ROS2** nodes for sensors, services, and TF trees (Jazzy).  
+- Solidity smart contracts — gas optimization & testing patterns.  
+- Better testing: PHPUnit, PyTest, and GitHub Actions.  
+
+---
+
+## 🎬 Outside Code
+- Cinematography & editing — visual storytelling, short videos, and product shots.  
+- Occasional blog posts & notes (add links here).  
+
+---
+
+<p align="center">
+  <sub>✨ Made with ❤️ — Last updated: Aug 2025</sub>
 </p>
