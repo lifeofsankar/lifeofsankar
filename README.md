@@ -1,5 +1,3 @@
-<!-- Profile README for @lifeofsankar — polished & engaging -->
-
 <div align="center">
 
 <a href="https://lifeofsankar.me/" target="_blank">
@@ -16,13 +14,13 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student from India who loves building robust software and mixing code with creativity.  
+I'm a Computer Science student from India who loves building robust software and mixing code with creativity.
 My focus areas are **full-stack development**, **software quality**, and **robotics (ROS2)** — with occasional adventures in **Swift** and **cinematography**.
 
-- 🔭 **Currently building:** ROS2 mini-projects (Jazzy), clean PHP/MySQL backends, and small Swift utilities.  
-- 📚 **Learning:** Ethereum & Solidity, deeper ROS2 concepts (services, TF, Nav2).  
-- 🎯 **Interests:** CI/CD, testing, computer vision, and storytelling with video.  
-- 💬 **Ask me about:** PHP/MySQL stacks, Python scripting, ROS2 basics, Git workflows.  
+- 🔭 **Currently building:** ROS2 mini-projects (Jazzy), clean PHP/MySQL backends, and small Swift utilities.
+- 📚 **Learning:** Ethereum & Solidity, deeper ROS2 concepts (services, TF, Nav2).
+- 🎯 **Interests:** CI/CD, testing, computer vision, and storytelling with video.
+- 💬 **Ask me about:** PHP/MySQL stacks, Python scripting, ROS2 basics, Git workflows.
 - 🌐 **Portfolio:** [lifeofsankar.me](https://lifeofsankar.me/)
 
 ---
@@ -67,55 +65,48 @@ My focus areas are **full-stack development**, **software quality**, and **robot
 > A few things I’m proud of. Check the repos for details and demos.
 
 ### **TrackMyLeave**
-- **Description:** Full-stack DBMS application for leave management with role-based access (admin, students, faculty).  
-- **Tech:** PHP · MySQL · HTML5 · CSS3  
-- **Repo:** *[link here]*  
-
-### **ROS 2 for Beginners**
-- **Description:** Tutorials and code snippets to get started with **ROS 2 Jazzy** fundamentals.  
-- **Tech:** ROS2 · Python  
-- **Repo:** *[link here]*  
-
-### **Swift Mini-Tools**
-- **Description:** Handy Swift utilities for daily tasks on macOS/iOS.  
-- **Tech:** Swift  
-- **Repo:** *[link here]*  
-
----
+- **Description:** Full-stack DBMS application for leave management with role-based access (admin, students, faculty).
+- **Tech:** PHP · MySQL · HTML5 · CSS3
+- **Repo:** [**View on GitHub**](https://github.com/lifeofsankar/TrackMyLeave) ### **ROS 2 for Beginners**
+- **Description:** Tutorials and code snippets to get started with **ROS 2 Jazzy** fundamentals.
+- **Tech:** ROS2 · Python
+- **Repo:** [**View on GitHub**](https://github.com/lifeofsankar/ROS2-for-Beginners) ### **Swift Mini-Tools**
+- **Description:** Handy Swift utilities for daily tasks on macOS/iOS.
+- **Tech:** Swift
+- **Repo:** [**View on GitHub**](https://github.com/lifeofsankar/Swift-Mini-Tools) ---
 
 ## 📈 GitHub Stats & Activity
----
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
-
-<!-- Contribution snake -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 ---
 
 ## 🧪 Currently Exploring
-- Building **ROS2** nodes for sensors, services, and TF trees (Jazzy).  
-- Solidity smart contracts — gas optimization & testing patterns.  
-- Better testing: PHPUnit, PyTest, and GitHub Actions.  
+- Building **ROS2** nodes for sensors, services, and TF trees (Jazzy).
+- Solidity smart contracts — gas optimization & testing patterns.
+- Better testing: PHPUnit, PyTest, and GitHub Actions.
 
 ---
 
 ## 🎬 Outside Code
-- Cinematography & editing — visual storytelling, short videos, and product shots.  
-- Occasional blog posts & notes (add links here).  
+- Cinematography & editing — visual storytelling, short videos, and product shots.
+- Writing occasional blog posts and technical notes.
 
 ---
 
 <p align="center">
-  <sub>✨ Made with ❤️ — Last updated: Aug 2025</sub>
+  <sub>✨ Made with ❤️ — Last updated: <#DATE#></sub>
 </p>
