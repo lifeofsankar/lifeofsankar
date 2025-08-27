@@ -84,7 +84,7 @@ My focus areas are **full-stack development**, **software quality**, and **robot
 ---
 
 ## 📈 GitHub Stats & Activity
-
+---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
