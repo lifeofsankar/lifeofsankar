@@ -1,0 +1,25 @@
+name: Update Instagram Feed
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  update-instagram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Fetch Instagram Posts
+        uses: marketplacer/instagram-posts-action@v1
+        with:
+          instagram_username: "lifeofsankar"
+          max_posts: 3
+          template: "instagram-template.md"
+          readme_path: "README.md"
+      - name: Commit Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update Instagram feed"
+          git push
