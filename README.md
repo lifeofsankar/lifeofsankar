@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=255E63&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jai+Sankar+J+%F0%9F%91%8B;A+Full-Stack+Developer;A+Robotics+Enthusiast;A+Creative+Cinematographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=255E63&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jai+Sankar+J+%F0%9F%91%8B;A+Software+Developer;A+Full-Stack+Developer;A+Robotics+EnthusiastA+Swift+Developer;;A+Creative+Cinematographer)](https://git.io/typing-svg)
 
 </div>
 
