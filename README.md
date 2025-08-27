@@ -1,10 +1,25 @@
-# Hi there, I'm Jai Sankar J 👋
+<div align="center">
 
-<p>
+<a href="https://lifeofsankar.me/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=lifeofsankar&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+</a>
+
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=255E63&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jai+Sankar+J+%F0%9F%91%8B;A+Full-Stack+Developer;A+Robotics+Enthusiast;A+Creative+Cinematographer)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
   I'm a Computer Science student from India with a passion for building robust software and exploring the intersection of code and creativity. My focus is on full-stack development and software quality, but I also enjoy diving into robotics with ROS and telling stories through cinematography.
 </p>
 
-<p align="left">
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
   <a href="https://lifeofsankar.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-255E63?style=for-the-badge&logo=googlesites&logoColor=white" alt="portfolio"/>
   </a>
@@ -20,9 +35,7 @@
 
 ### 🛠️ My Tech Stack & Tools
 
-Here are some of the technologies I enjoy working with:
-
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -55,16 +68,33 @@ Here are some of the technologies I enjoy working with:
 
 Here are a few projects I'm proud of. Be sure to check them out!
 
-| Project | Description |
-|---|---|
-| **TrackMyLeave** | A full-stack DBMS application for leave management with role-based access for admins, students, and faculty, built with PHP and MySQL. |
-| **ROS 2 for Beginners** | A collection of tutorials and code samples to help newcomers get started with the fundamental concepts of ROS 2 Jazzy. |
+#### TrackMyLeave
+- **Description:** A full-stack DBMS application for leave management with role-based access for admins, students, and faculty.
+- **Tech:** <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+
+#### ROS 2 for Beginners
+- **Description:** A collection of tutorials and code samples to help newcomers get started with the fundamental concepts of ROS 2 Jazzy.
+- **Tech:** <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ros"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jai Sankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/lifeofsankar/lifeofsankar/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
