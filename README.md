@@ -86,21 +86,21 @@ My focus areas are **full-stack development**, **software quality**, and **robot
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 <!-- Contribution snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/lifeofsankar/lifeofsankar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 ---
 
 ## 🧪 Currently Exploring
