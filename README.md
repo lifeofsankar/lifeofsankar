@@ -56,7 +56,7 @@
 ---
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15)
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
