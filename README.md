@@ -49,7 +49,8 @@
 
 ## 📸 Latest Instagram Posts
 <!-- instagram-feed:start -->
-- [Reel 1](https://www.instagram.com/reel/DKwg_46zPav/?igsh=MWJuc3NieHJzeG14eA==)  
+- [Reel 1](https://www.instagram.com/reel/DKpG5W3T4V_/?utm_source=ig_web_button_share_sheet)
+- [Reel 2](https://www.instagram.com/reel/DKwg_46zPav/?igsh=MWJuc3NieHJzeG14eA==)  
 <!-- instagram-feed:end -->
 
 ---
