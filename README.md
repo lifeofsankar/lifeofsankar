@@ -1,21 +1,21 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%"/>
-</div>
+
 
 # 👋 Hi, I'm Jai Sankar
 
 🎬 **Cinematographer | Developer | Creator**  
 
 ✨ Exploring the intersection of **tech + art**: coding, storytelling, and cinematography.  
+</div>
 
 ---
 
 ## 🛠️ About Me
 - 🎥 Editing Tools: **VN | CapCut | Final Cut Pro | Premiere Pro | Photoshop**  
 - 📱 Shoot on: **iPhone 13**  
-- 🌐 Instagram: [@lifeofsankar](https://instagram.com/lifeofsankar)  
+- 🌐 Instagram: [@lifeofsankar](https://instagram.com/lifeofsankar)
 - 💡 Always learning, building, and experimenting with creative tech.  
-
 ---
 
 ## 🚀 Tech Stack
@@ -79,4 +79,6 @@
 
 ---
 
-✨ _Auto-updating profile powered by GitHub Actions_
+<p align="center">
+  Made with ❤️ by [lifeofsankar](https://github.com/lifeofsankar)
+</p>
