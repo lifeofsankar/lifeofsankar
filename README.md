@@ -38,6 +38,10 @@
   <img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=radical" alt="streak" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofsankar&layout=compact&theme=radical" alt="top langs"/>
+</p>
+
 ---
 
 ## 🌱 Contribution Graph
@@ -56,8 +60,9 @@
 ---
 
 ## 🏆 Achievements
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15)
-
+<p align="center">
+  <img src="https://github-profile-trophy-rank.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
 ---
 
 ## 📈 Visitors
