@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jai Sankar
 
-🎬 **Cinematographer | Developer | Creator**  
+🎬 **Cinematographer | Developer | Creator | Editor**  
 
 ✨ Exploring the intersection of **tech + art**: coding, storytelling, and cinematography.  
 </div>
