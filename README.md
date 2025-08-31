@@ -63,7 +63,8 @@
 <p align="center">
   <img src="https://github-profile-trophy-rank.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
---- -->
+---
+-->
 
 ## 📈 Visitors
 <p align="center">
