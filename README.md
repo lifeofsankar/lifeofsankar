@@ -12,23 +12,31 @@
 ---
 
 ## 🛠️ About Me
-- 🎥 Editing Tools: **VN | CapCut | Final Cut Pro | Premiere Pro | Photoshop**  
-- 📱 Shoot on: **iPhone 13**  
-- 🌐 Instagram: [@lifeofsankar](https://instagram.com/lifeofsankar)
-- 💡 Always learning, building, and experimenting with creative tech.  
+- 🎥 Passionate about **cinematography & storytelling** — blending creativity with technology.  
+- 💻 Currently exploring **ROS2, robotics, and AI-driven creative tools**.  
+- 📱 Shoot on: **iPhone 13** | Edit with: **VN | CapCut | Final Cut Pro | Premiere Pro | Photoshop**  
+- 🌐 Follow my creative journey on [Instagram](https://instagram.com/lifeofsankar)  
+- 💡 Always learning, building, and experimenting with **creative tech projects**.  
+ 
 ---
 
 ## 🚀 Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -44,12 +52,6 @@
 
 ---
 
-## 🌱 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifeofsankar&theme=react-dark" alt="activity graph"/>
-</p>
-
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/lifeofsankar/lifeofsankar/blob/output/snake.svg" alt="snake animation"/>
@@ -57,20 +59,19 @@
 
 ---
 
-## 📸 Latest Instagram Posts
-<!-- instagram-feed:start -->
-- [Reel 1](https://www.instagram.com/reel/DKpG5W3T4V_/?utm_source=ig_web_button_share_sheet)
-- [Reel 2](https://www.instagram.com/reel/DKwg_46zPav/?igsh=MWJuc3NieHJzeG14eA==)  
-<!-- instagram-feed:end -->
+## 🎬 Featured Projects
+- 🤖 [ROS2 Face Detection](https://github.com/lifeofsankar/ros2-face-detection) – Real-time vision project using OpenCV & ROS2.  
+- 🎥 [Cinematic Reel](https://www.instagram.com/reel/DKpG5W3T4V_/?utm_source=ig_web_button_share_sheet) – A short reel showcasing my latest work.  
+- 🌐 [Portfolio Website](https://lifeofsankar.me) – Personal portfolio built with modern web tools.  
 
 ---
-<!--
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy-rank.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
+
 ---
--->
 
 ## 📈 Visitors
 <p align="center">
@@ -86,6 +87,14 @@
 
 ---
 
+## 🌱 Contribution Graph
 <p align="center">
-   Made with ❤️ by [lifeofsankar](https://github.com/lifeofsankar)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifeofsankar&theme=react-dark" alt="activity graph"/>
 </p>
+
+---
+
+<p align="center">
+   Made with ❤️ by <a href="https://github.com/lifeofsankar"><b>lifeofsankar</b></a>
+</p>
+
