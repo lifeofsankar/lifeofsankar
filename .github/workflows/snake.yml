@@ -1,18 +1,15 @@
 name: Generate Snake
 
 on:
-  schedule: # run automatically every 12 hours
+  schedule: # runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # run manually
-  push:
-    branches:
-      - main
+  workflow_dispatch: # allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -21,7 +18,7 @@ jobs:
           github_user_name: lifeofsankar
           outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
