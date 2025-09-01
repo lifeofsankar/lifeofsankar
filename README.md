@@ -49,6 +49,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifeofsankar&theme=react-dark" alt="activity graph"/>
 </p>
 
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/lifeofsankar/lifeofsankar/blob/output/snake.svg" alt="snake animation"/>
+</p>
+
 ---
 
 ## 📸 Latest Instagram Posts
