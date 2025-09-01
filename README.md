@@ -60,7 +60,6 @@
 ---
 
 ## 🎬 Featured Projects
-- 🤖 [ROS2 Face Detection](https://github.com/lifeofsankar/ros2-face-detection) – Real-time vision project using OpenCV & ROS2.  
 - 🎥 [Cinematic Reel](https://www.instagram.com/reel/DKpG5W3T4V_/?utm_source=ig_web_button_share_sheet) – A short reel showcasing my latest work.  
 - 🌐 [Portfolio Website](https://lifeofsankar.me) – Personal portfolio built with modern web tools.  
 
