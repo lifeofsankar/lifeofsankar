@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # runs every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # allows manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,7 +19,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: lifeofsankar
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
