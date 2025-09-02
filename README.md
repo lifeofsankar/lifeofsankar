@@ -8,6 +8,9 @@
 
 ✨ Exploring the intersection of **tech + art**: coding, storytelling, and cinematography.  
 </div>
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)]([https://open.spotify.com/user/lifeofsankar](https://open.spotify.com/user/31fi24dxuji5dvs36cfhlnsxndfq))
 
 ---
 
