@@ -8,9 +8,6 @@
 
 ✨ Exploring the intersection of **tech + art**: coding, storytelling, and cinematography.  
 </div>
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)]([https://open.spotify.com/user/lifeofsankar](https://open.spotify.com/user/31fi24dxuji5dvs36cfhlnsxndfq))
 
 ---
 
@@ -71,6 +68,18 @@
 ## 🏆 Achievements
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=lifeofsankar&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
+
+---
+
+## 🎧 Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/31fi24dxuji5dvs36cfhlnsxndfq">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fi24dxuji5dvs36cfhlnsxndfq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color_cover=true"
+      alt="Spotify Now Playing"
+    />
+  </a>
 </p>
 
 ---
