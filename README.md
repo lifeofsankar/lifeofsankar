@@ -72,18 +72,6 @@
 
 ---
 
-## 🎧 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/31fi24dxuji5dvs36cfhlnsxndfq">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fi24dxuji5dvs36cfhlnsxndfq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color_cover=true"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
-
----
-
 ## 📈 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lifeofsankar&style=for-the-badge&color=brightgreen" alt="Profile views"/>
