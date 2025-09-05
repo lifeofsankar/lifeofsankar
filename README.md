@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeofsankar&show_icons=true&theme=radical" alt="stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=lifeofsankar&theme=radical" alt="streak" height="165"/>
