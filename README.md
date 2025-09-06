@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%"/>
 
 
-# 👋 Hi, I'm Jai Sankar
+# 👋 Hi, I'm Jai Sankar J
 
 🎬 **Cinematographer | Developer | Creator | Editor**  
 
